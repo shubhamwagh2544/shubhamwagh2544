@@ -1,8 +1,8 @@
 ### Hi there 👋
-🔭 I’m Backend Engineer.
-🌱 I’m learning Software Engineering Practise on the whole.
-💬 Ask me about **Why, What and How** of backend systems.
-📫 Reach me at : [shubhamwagh2544@gmail.com](mailto:shubhamwagh2544@gmail.com)
+- 🔭 I’m Backend Engineer.
+- 🌱 I’m learning Software Engineering Practise on the whole.
+- 💬 Ask me about **Why, What and How** of backend systems.
+- 📫 Reach me at : [shubhamwagh2544@gmail.com](mailto:shubhamwagh2544@gmail.com)
 
 <!--
 **shubhamwagh2544/shubhamwagh2544** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
