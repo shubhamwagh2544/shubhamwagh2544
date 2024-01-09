@@ -1,7 +1,7 @@
 ### Hi there 👋
-- 🔭 I’m Backend Engineer.
+- 🔭 I’m Software Engineer.
 - 🌱 I’m learning Software Engineering Practice on the whole.
-- 💬 Ask me about **Why, What and How** of backend systems.
+- 💬 Ask me about **Why, What and How** of Engineering.
 - 📫 Reach me at : [shubhamwagh2544@gmail.com](mailto:shubhamwagh2544@gmail.com)
 
 <!--
