@@ -18,7 +18,7 @@
 
 ## 📫 Reach Out
 
-• Reach me at : [shubhamwagh2544@gmail.com](mailto:shubhamwagh2544@gmail.com)
+• Email : [shubhamwagh2544@gmail.com](mailto:shubhamwagh2544@gmail.com)
 
 • Discord/Telegram/Twitter(X) : @shubhamwagh2544
 
